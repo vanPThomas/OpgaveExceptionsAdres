@@ -1,0 +1,12 @@
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\bin\Debug\net6.0\DataLibrary.deps.json
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\bin\Debug\net6.0\DataLibrary.dll
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\bin\Debug\net6.0\DataLibrary.pdb
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.csproj.AssemblyReference.cache
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.AssemblyInfoInputs.cache
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.AssemblyInfo.cs
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.dll
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\refint\DataLibrary.dll
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\DataLibrary.pdb
+C:\additions\hogent\pg\Oefeningen\OpgaveExceptionsAdres\DataLibrary\obj\Debug\net6.0\ref\DataLibrary.dll
